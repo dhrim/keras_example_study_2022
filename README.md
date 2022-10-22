@@ -3,6 +3,10 @@
 
 Keras Example page(https://keras.io/examples/) 에서 예제를 골라서 스터디 시간에 설명해 준다.
 
+혹은 
+
+Keras Exaample의 대상으로 한 온라인 세미나(https://aifactory.space/learning)의 동영상을 같이 보면서 얘기해 본다.
+
 <br>
 
 # 순서
