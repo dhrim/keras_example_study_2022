@@ -26,3 +26,4 @@ Keras Exaample의 대상으로 한 온라인 세미나(https://aifactory.space/l
 # 자료들
 
 - 1주차 : [A walk through latent space with Stable Diffusion](random_walks_with_stable_diffusion.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/random_walks_with_stable_diffusion.ipynb)
+- 2주차 : [Object Detection](2주차_objectDetection.pptx)
