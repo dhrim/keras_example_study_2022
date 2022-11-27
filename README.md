@@ -45,5 +45,6 @@ Keras Exaample의 대상으로 한 온라인 세미나(https://aifactory.space/l
     - [CTC를 이용한 음성 자동 인식 예제](Automatic_Speech_Recognition_using_CTC.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/Automatic_Speech_Recognition_using_CTC.ipynb)
 - 6주차
     - [Grad Cam](grad_cam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/grad_cam.ipynb)
-
+- 7주차 
+    - [Image Captioning](Image_Captioning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/Image_Captioning.ipynb)
     
