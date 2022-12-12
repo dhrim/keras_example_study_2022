@@ -47,6 +47,8 @@ Keras Exaample의 대상으로 한 온라인 세미나(https://aifactory.space/l
     - [Grad Cam](grad_cam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/grad_cam.ipynb)
 - 7주차 
     - [Image Captioning](Image_Captioning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/Image_Captioning.ipynb)
+- 8주차
+    - [Monocular Depth Estimation](monocular_depth_estimation.pptx)
 - 9주차 
     - [Captcha OCR](Captcha_OCR.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/Captcha_OCR.ipynb)
     - [ChatGPT 살펴보기](https://chat.openai.com/)    
