@@ -37,6 +37,7 @@ Keras Exaample의 대상으로 한 온라인 세미나(https://aifactory.space/l
 - 1주차 : [A walk through latent space with Stable Diffusion](random_walks_with_stable_diffusion.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/random_walks_with_stable_diffusion.ipynb)
 - 2주차 : [Object Detection](2주차_objectDetection.pptx)
 - 3주차
+    - [AlexNet](AlexNet.pptx)
 - 4주차
     - [ResNet](ResNet.pptx)
     - [image_classification_with_vision_transformer](keras_example_study(image_classification_with_vision_transformer).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/keras_example_study(image_classification_with_vision_transformer).ipynb)
@@ -47,6 +48,7 @@ Keras Exaample의 대상으로 한 온라인 세미나(https://aifactory.space/l
     - [Grad Cam](grad_cam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/grad_cam.ipynb)
 - 7주차 
     - [Image Captioning](Image_Captioning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_study_2022/blob/main/Image_Captioning.ipynb)
+    - [VAE](VAE.pptx)    
 - 8주차
     - [Monocular Depth Estimation](monocular_depth_estimation.pptx)
 - 9주차 
